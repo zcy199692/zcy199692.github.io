@@ -24,5 +24,3 @@
 
 [算法题心得总结](algorithm/算法)
 
-## Git
-[Git](git/Git.md)
