@@ -20,6 +20,9 @@
 
 [MySQL锁机制](database/MySQL锁机制.md)
 
+## JVM
+[JVM原理](JVM/JVM.md)
+
 ## 算法
 
 [算法题心得总结](algorithm/算法)
