@@ -20,6 +20,8 @@
 
 [MySQL锁机制](database/MySQL锁机制.md)
 
+## 缓存
+[Redis](redis/Redis6.md)
 ## JVM
 [JVM原理](JVM/JVM.md)
 
